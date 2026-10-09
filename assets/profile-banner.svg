@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Bobby Fajar Christian</title><desc id="desc">Thoughtful web experiences. Lightweight by design.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#092d25"/><stop offset="1" stop-color="#143f35"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="1080" cy="75" r="180" fill="#6ee7b7" opacity=".05"/><circle cx="1030" cy="245" r="145" fill="#6ee7b7" opacity=".05"/>
+<path d="M889 158c40-58 87-52 125-24 13-31 38-45 69-41-9 21-25 42-48 55-51 38-100 50-146 10Z" fill="#86efac"/>
+<path d="m924 150 64 10-29 39" fill="none" stroke="#d1fae5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="72" fill="#86efac" font-family="system-ui,Segoe UI,sans-serif" font-size="17" letter-spacing="4">BOBBYFCH / OPEN SOURCE</text>
+<text x="64" y="144" fill="#f0fdf4" font-family="system-ui,Segoe UI,sans-serif" font-size="49" font-weight="700">Bobby Fajar Christian</text>
+<text x="66" y="194" fill="#b5d4c9" font-family="system-ui,Segoe UI,sans-serif" font-size="24">Thoughtful web experiences. Lightweight by design.</text>
+<rect x="64" y="238" width="209" height="36" rx="18" fill="#214f40"/><text x="83" y="262" fill="#d1fae5" font-family="system-ui,Segoe UI,sans-serif" font-size="16">Building FlippyPDF</text>
+<text x="302" y="262" fill="#b5d4c9" font-family="system-ui,Segoe UI,sans-serif" font-size="16">Jakarta, Indonesia</text>
+</svg>
