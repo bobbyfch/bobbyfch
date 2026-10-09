@@ -5,19 +5,19 @@
 <p align="center">
   <a href="https://bobbyfajarc.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-14532d?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/bobbyfajarc/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge"></a>
-  <a href="https://bobbyfch.github.io/flippypdf/"><img alt="FlippyPDF live demo" src="https://img.shields.io/badge/FlippyPDF-Try%20it-166534?style=for-the-badge"></a>
+  <a href="https://bobbyfch.github.io/flippypdf/"><img alt="Sela live demo" src="https://img.shields.io/badge/Sela-Try%20it-166534?style=for-the-badge"></a>
 </p>
 
 Hi, I'm **Bobby** 👋 I build web experiences and open-source tools with a focus on thoughtful interaction, performance, and simple integration.
 
-### 🌿 Currently building · FlippyPDF
+### 🌿 Currently building · Sela
 
-**One reader. Many ways to read.**
+**A place between. A story within.**
 
-A framework-independent reader for **PDF, EPUB & CBZ**, with optional DjVu support. Book flips, manga reading from right to left, and seamless webtoon scrolling — with format adapters loaded when needed.
+A framework-independent reader for **PDF, EPUB, comics & text**, with optional DjVu support. Book flips, manga reading from right to left, seamless webtoon scrolling, contents, search, narration and local notes — with tools loaded when needed. An optional offline bookshelf keeps your books close.
 
 <a href="https://bobbyfch.github.io/flippypdf/">
-  <img src="https://raw.githubusercontent.com/bobbyfch/flippypdf/main/site/preview-reader.jpg" alt="FlippyPDF interactive reader with the illustrated Limaraya story — click to try the live demo" width="100%">
+  <img src="https://raw.githubusercontent.com/bobbyfch/flippypdf/main/site/preview-reader.jpg" alt="Sela interactive reader with the illustrated Limaraya story — click to try the live demo" width="100%">
 </a>
 
 <p align="center">
@@ -33,11 +33,11 @@ A framework-independent reader for **PDF, EPUB & CBZ**, with optional DjVu suppo
 
 **What I care about:** useful details, accessible interaction, and keeping the web lightweight.
 
-Have an idea for a better reading experience? [Share it in FlippyPDF issues](https://github.com/bobbyfch/flippypdf/issues).
+Have an idea for a better reading experience? [Share it in Sela issues](https://github.com/bobbyfch/flippypdf/issues).
 
 <details>
 <summary>🇮🇩 Halo, saya Bobby</summary>
 
-Saya membuat pengalaman web dan alat open source yang praktis, ringan, dan mudah diintegrasikan. Saat ini saya mengembangkan **FlippyPDF**, reader untuk PDF, EPUB, dan komik dengan mode buku, manga, serta webtoon. Silakan coba demonya atau berbagi ide melalui issues.
+Saya membuat pengalaman web dan alat open source yang praktis, ringan, dan mudah diintegrasikan. Saat ini saya mengembangkan **Sela**, reader untuk PDF, EPUB, dan komik dengan mode buku, manga, serta webtoon. Silakan coba demonya atau berbagi ide melalui issues.
 
 </details>
