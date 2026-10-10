@@ -4,7 +4,7 @@
 
 I build things for the web, make music, and enjoy difficult questions.
 
-- **Sela Reader** — a private mobile library, desktop reading home, and lightweight viewer. [Try it](https://bobbyfch.github.io/sela/) · [Source](https://github.com/bobbyfch/sela)
+- **Sela Reader** — a private reading web app and lightweight website viewer. [Try it](https://bobbyfch.github.io/sela/) · [Source](https://github.com/bobbyfch/sela)
 - **Limaraya** — music, lyrics, and a world in progress.
 
 JavaScript · TypeScript · PHP · small tools · careful details
