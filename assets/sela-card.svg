@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 285" width="620" height="285" role="img" aria-labelledby="title desc">
+<title id="title">Sela Books</title><desc id="desc">Green illustrated card featuring a colorful open book</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6F4DF"/><stop offset="1" stop-color="#89DED6"/></linearGradient><clipPath id="clip"><rect width="620" height="285" rx="22"/></clipPath></defs>
+<g clip-path="url(#clip)">
+<rect width="620" height="285" fill="url(#bg)"/><circle cx="583" cy="29" r="143" fill="#DDFCF0" opacity=".6"/>
+<path d="M0 255C159 229 262 317 418 268S569 212 620 235V285H0Z" fill="#70C8C5" opacity=".43"/>
+<rect x="30" y="31" width="170" height="34" rx="17" fill="#263558"/><text x="47" y="53" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1" fill="#F5FFEE">01 / READING</text>
+<text x="28" y="162" fill="#263558" font-family="Arial Black,Arial,sans-serif" font-size="99" font-weight="900" letter-spacing="-6">SELA</text>
+<text x="33" y="207" fill="#324A65" font-family="Arial,sans-serif" font-size="20" font-weight="600">Books, comics &amp; docs</text>
+<rect x="31" y="237" width="137" height="8" rx="4" fill="#FF896B"/><rect x="174" y="237" width="57" height="8" rx="4" fill="#6A65C4"/>
+<g transform="translate(381 52) rotate(8 90 99)">
+ <rect x="30" y="33" width="164" height="186" rx="12" fill="#273456" opacity=".2"/>
+ <rect x="7" y="28" width="185" height="187" rx="10" fill="#7856A9"/>
+ <path d="M103 48C70 33 45 39 19 47v139c36-10 61-7 84 7z" fill="#FFF7DE"/>
+ <path d="M103 48c27-17 53-15 77-8v147c-30-6-54-4-77 6z" fill="#FFF0CF"/>
+ <path d="M103 48v145" stroke="#CEBAC9" stroke-width="4"/>
+ <path d="M34 83h50M34 102h43M34 121h49M122 78h43M122 97h39M122 116h46" stroke="#B7AFC5" stroke-width="6" stroke-linecap="round"/>
+ <rect x="148" y="29" width="18" height="63" fill="#FF8073"/>
+ <path d="M148 92l9-12 9 12" fill="#FF8073"/>
+</g>
+<path d="M353 90l8 11 13 2-10 9 2 13-13-7-12 7 3-13-10-9 13-2z" fill="#FFF8C8"/>
+</g></svg>
