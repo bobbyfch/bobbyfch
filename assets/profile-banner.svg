@@ -1,34 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Bobby Fajar Christian</title>
-  <desc id="desc">Web developer and music producer</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#121A2C"/>
-      <stop offset="100%" stop-color="#1C2540"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#9DB8F8"/>
-      <stop offset="100%" stop-color="#A5DDC8"/>
-    </linearGradient>
-    <clipPath id="frame"><rect width="1200" height="360" rx="22"/></clipPath>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#background)"/>
-    <circle cx="1100" cy="-40" r="280" fill="#637CB6" opacity=".10"/>
-    <circle cx="860" cy="310" r="210" fill="#64AC9C" opacity=".07"/>
-    <text x="72" y="93" fill="#A9BEDC" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">DEVELOPMENT  /  MUSIC</text>
-    <text x="70" y="168" fill="#F8FAFD" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Bobby Fajar Christian</text>
-    <text x="73" y="215" fill="#C6D0E2" font-family="Arial, Helvetica, sans-serif" font-size="23">Web developer &amp; music producer</text>
-    <rect x="72" y="254" width="156" height="4" rx="2" fill="url(#accent)"/>
-    <g transform="translate(823 56)">
-      <rect width="312" height="248" rx="19" fill="#111B2D" stroke="#627795" stroke-opacity=".48"/>
-      <circle cx="24" cy="24" r="4" fill="#8399B7"/>
-      <circle cx="40" cy="24" r="4" fill="#8399B7" opacity=".5"/>
-      <circle cx="56" cy="24" r="4" fill="#8399B7" opacity=".3"/>
-      <path d="M0 47H312" stroke="#627795" stroke-opacity=".35"/>
-      <path d="M30 81h67M30 99h112M30 117h84" stroke="#8299BE" stroke-width="5" stroke-linecap="round" opacity=".45"/>
-      <path d="M30 159h252" stroke="#60728F" stroke-width="1" opacity=".5"/>
-      <path d="M30 199h20l8-12 10 28 13-45 14 60 13-38 10 18 12-11h18l10-13 12 20 12-13 10 6h15l10-14 11 20 11-8h17" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="title desc">
+<title id="title">Bobby Fajar Christian</title>
+<desc id="desc">A colorful illustration combining web development and music production</desc>
+<defs>
+  <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF8E6"/><stop offset="1" stop-color="#FFE7DB"/></linearGradient>
+  <pattern id="dots" width="19" height="19" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.5" fill="#D2C7C1"/></pattern>
+  <linearGradient id="badge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF736E"/><stop offset="1" stop-color="#FFB175"/></linearGradient>
+  <clipPath id="frame"><rect width="1200" height="430" rx="26"/></clipPath>
+  <style>
+    @keyframes rotateDisc {to {transform:rotate(360deg)}}
+    @keyframes blink {50% {opacity:.25}}
+    .disc {transform-box:fill-box;transform-origin:center;animation:rotateDisc 18s linear infinite}
+    .light {animation:blink 2.6s ease-in-out infinite}
+    @media (prefers-reduced-motion:reduce){.disc,.light{animation:none}}
+  </style>
+</defs>
+<g clip-path="url(#frame)">
+ <rect width="1200" height="430" fill="url(#paper)"/>
+ <path d="M757 -40C936 -50 1039 112 1219 85V447H777C827 287 678 141 757 -40Z" fill="#B6ADFF"/>
+ <path d="M1147 -41C1056 75 1225 170 1186 305L1250 314V-41Z" fill="#80E6CF"/>
+ <path d="M1176 295C1095 353 1135 411 1060 458H1229V285Z" fill="#FFAB86"/>
+ <circle cx="757" cy="396" r="96" fill="#FFE477"/>
+ <rect x="15" y="20" width="330" height="170" fill="url(#dots)" opacity=".35"/>
+ <path d="M0 382L1200 382" stroke="#1B2245" stroke-width="2" opacity=".13"/>
+ <rect x="65" y="44" width="175" height="39" rx="19.5" fill="#FFE477" stroke="#24264A" stroke-width="2"/>
+ <text x="87" y="70" fill="#24264A" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" letter-spacing="2">HEY, I'M BOBBY</text>
+ <text x="61" y="188" fill="#202346" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="110" font-weight="900" letter-spacing="-5">BOBBY</text>
+ <text x="67" y="259" fill="#202346" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="57" font-weight="900" letter-spacing="-2.7">FAJAR CHRISTIAN</text>
+ <text x="71" y="315" fill="#383858" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600">Web developer  /  Music producer</text>
+ <g transform="translate(71 351)">
+  <rect width="160" height="45" rx="22.5" fill="#202346"/>
+  <text x="25" y="29" fill="#FFF8E6" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="1.8">INDONESIA</text>
+  <circle cx="181" cy="22" r="9" fill="#FF736E"/><circle cx="206" cy="22" r="9" fill="#8FE3C7"/><circle cx="231" cy="22" r="9" fill="#8C83ED"/>
+ </g>
+ <g transform="rotate(-8 894 200)">
+  <rect x="770" y="103" width="315" height="250" rx="22" fill="#202346" stroke="#FFF7EB" stroke-width="6"/>
+  <rect x="791" y="128" width="273" height="28" rx="8" fill="#31366C"/>
+  <circle cx="809" cy="142" r="5" fill="#FF777A"/><circle cx="828" cy="142" r="5" fill="#FFE477"/><circle cx="847" cy="142" r="5" fill="#80E6CF"/>
+  <rect x="800" y="182" width="62" height="9" rx="4.5" fill="#FF96A9"/>
+  <rect x="875" y="182" width="85" height="9" rx="4.5" fill="#A59FFF"/>
+  <rect x="818" y="210" width="130" height="9" rx="4.5" fill="#77E3CD"/>
+  <rect x="818" y="239" width="75" height="9" rx="4.5" fill="#FFD77A"/>
+  <rect x="903" y="239" width="115" height="9" rx="4.5" fill="#FF96A9"/>
+  <rect x="800" y="269" width="147" height="9" rx="4.5" fill="#8C9EED"/>
+  <rect x="818" y="298" width="106" height="9" rx="4.5" fill="#77E3CD"/>
+  <rect x="935" y="298" width="58" height="9" rx="4.5" fill="#FFD77A"/>
+ </g>
+ <circle cx="1041" cy="259" r="136" fill="#FF786E"/>
+ <g class="disc">
+  <circle cx="1041" cy="259" r="116" fill="#191D3C" stroke="#FFF7EB" stroke-width="7"/>
+  <circle cx="1041" cy="259" r="96" fill="none" stroke="#46456D" stroke-width="2"/>
+  <circle cx="1041" cy="259" r="80" fill="none" stroke="#46456D" stroke-width="2"/>
+  <circle cx="1041" cy="259" r="64" fill="none" stroke="#46456D" stroke-width="2"/>
+  <circle cx="1041" cy="259" r="45" fill="#FFD868"/>
+  <circle cx="1041" cy="259" r="33" fill="#FF8D83"/>
+  <circle cx="1041" cy="259" r="5.5" fill="#222346"/>
+  <path d="M1041 221V237M1008 259H1024M1058 259H1074" stroke="#202346" stroke-width="3" stroke-linecap="round"/>
+ </g>
+ <g fill="#202346"><path d="M720 80l8 15 16 3-12 12 3 17-15-8-14 8 3-17-12-12 16-3z"/><path d="M1150 53l6 11 12 2-9 9 2 12-11-6-10 6 2-12-9-9 12-2z"/></g>
+ <path d="M725 175l12 0m-6 -6v12M1181 145l12 0m-6 -6v12" stroke="#FF716F" stroke-width="4" stroke-linecap="round"/>
+ <circle class="light" cx="749" cy="51" r="8" fill="#FF736E"/>
+</g>
 </svg>
