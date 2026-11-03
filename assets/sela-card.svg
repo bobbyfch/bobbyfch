@@ -1,22 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 285" width="620" height="285" role="img" aria-labelledby="title desc">
-<title id="title">Sela Books</title><desc id="desc">Green illustrated card featuring a colorful open book</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B6F4DF"/><stop offset="1" stop-color="#89DED6"/></linearGradient><clipPath id="clip"><rect width="620" height="285" rx="22"/></clipPath></defs>
-<g clip-path="url(#clip)">
-<rect width="620" height="285" fill="url(#bg)"/><circle cx="583" cy="29" r="143" fill="#DDFCF0" opacity=".6"/>
-<path d="M0 255C159 229 262 317 418 268S569 212 620 235V285H0Z" fill="#70C8C5" opacity=".43"/>
-<rect x="30" y="31" width="170" height="34" rx="17" fill="#263558"/><text x="47" y="53" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1" fill="#F5FFEE">01 / READING</text>
-<text x="28" y="162" fill="#263558" font-family="Arial Black,Arial,sans-serif" font-size="99" font-weight="900" letter-spacing="-6">SELA</text>
-<text x="33" y="207" fill="#324A65" font-family="Arial,sans-serif" font-size="20" font-weight="600">Books, comics &amp; docs</text>
-<rect x="31" y="237" width="137" height="8" rx="4" fill="#FF896B"/><rect x="174" y="237" width="57" height="8" rx="4" fill="#6A65C4"/>
-<g transform="translate(381 52) rotate(8 90 99)">
- <rect x="30" y="33" width="164" height="186" rx="12" fill="#273456" opacity=".2"/>
- <rect x="7" y="28" width="185" height="187" rx="10" fill="#7856A9"/>
- <path d="M103 48C70 33 45 39 19 47v139c36-10 61-7 84 7z" fill="#FFF7DE"/>
- <path d="M103 48c27-17 53-15 77-8v147c-30-6-54-4-77 6z" fill="#FFF0CF"/>
- <path d="M103 48v145" stroke="#CEBAC9" stroke-width="4"/>
- <path d="M34 83h50M34 102h43M34 121h49M122 78h43M122 97h39M122 116h46" stroke="#B7AFC5" stroke-width="6" stroke-linecap="round"/>
- <rect x="148" y="29" width="18" height="63" fill="#FF8073"/>
- <path d="M148 92l9-12 9 12" fill="#FF8073"/>
+<title id="title">Sela — local-first reading platform</title>
+<desc id="desc">An understated monochrome project card with editorial lettering and layered document windows.</desc>
+<defs><clipPath id="frame"><rect width="620" height="285" rx="15"/></clipPath><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#17181B" stroke-opacity=".055"/></pattern></defs>
+<g clip-path="url(#frame)">
+  <rect width="620" height="285" fill="#F0F0F0"/>
+  <rect width="620" height="285" fill="url(#grid)"/>
+  <path d="M28 72H592M28 237H592" stroke="#151619" stroke-opacity=".2"/>
+  <text x="30" y="49" fill="#303135" font-family="Consolas,Menlo,monospace" font-size="16" font-weight="700" letter-spacing="1.2">01 / SOFTWARE</text>
+  <text x="31" y="156" fill="#121316" font-family="Manrope,Arial,Helvetica,sans-serif" font-size="91" font-weight="800" letter-spacing="-6">SELA</text>
+  <text x="34" y="195" fill="#414247" font-family="Consolas,Menlo,monospace" font-size="16">LOCAL-FIRST / READING ENGINE</text>
+  <text x="31" y="264" fill="#414247" font-family="Consolas,Menlo,monospace" font-size="15">SELA.LIMARAYA.COM</text>
+  <g transform="translate(419 81)">
+    <rect x="43" y="-7" width="139" height="156" rx="8" fill="#DEDEE0" stroke="#949599"/>
+    <rect x="16" y="10" width="149" height="157" rx="8" fill="#F5F5F5" stroke="#7E7F84"/>
+    <rect x="-5" y="28" width="150" height="159" rx="8" fill="#FFFFFF" stroke="#232429" stroke-width="1.6"/>
+    <path d="M17 68H123M17 88H108M17 108H119M17 128H85" stroke="#B7B7BA" stroke-width="6" stroke-linecap="round"/>
+    <rect x="17" y="148" width="50" height="14" rx="3" fill="#232429"/>
+  </g>
+  <rect x="549" y="24" width="43" height="43" rx="9" fill="#151619"/>
+  <g transform="translate(555 29) scale(.53)">
+    <path d="M43 22c-4.1-3.4-8.1-4.9-13.1-4.9-8.4 0-13.6 4.3-13.6 10.7 0 6.6 4.6 9.3 12.8 11.4 4.4 1.1 5.3 1.8 5.3 3.3 0 1.7-1.7 2.5-4.7 2.5-4.5 0-8.7-1.6-12.9-4.6v9.1c3.9 2.2 8.6 3.5 13.6 3.5 10.1 0 15.6-4.5 15.6-11.7 0-6.2-4.1-9.1-12.2-11.2-5.3-1.4-6.4-2-6.4-3.4 0-1.2 1.3-2.2 3.5-2.2 3.4 0 6.7 1.1 9.7 3.2z" fill="#FFFFFF"/>
+    <rect x="44" y="44" width="10" height="10" rx="1.8" fill="#B9B9BC"/>
+  </g>
 </g>
-<path d="M353 90l8 11 13 2-10 9 2 13-13-7-12 7 3-13-10-9 13-2z" fill="#FFF8C8"/>
-</g></svg>
+</svg>
