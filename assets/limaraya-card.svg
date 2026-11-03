@@ -1,27 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 285" width="620" height="285" role="img" aria-labelledby="title desc">
-<title id="title">Limaraya</title><desc id="desc">Coral illustrated music project card featuring a vinyl record and soundwave</desc>
-<defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#FFC1A4"/><stop offset="1" stop-color="#FFC9DD"/></linearGradient><clipPath id="clip"><rect width="620" height="285" rx="22"/></clipPath></defs>
-<g clip-path="url(#clip)">
-<rect width="620" height="285" fill="url(#bg)"/>
-<circle cx="553" cy="13" r="120" fill="#FFE8A4" opacity=".65"/>
-<path d="M0 285V211C130 261 248 211 386 244S544 226 620 199V285Z" fill="#FA9DAC" opacity=".5"/>
-<rect x="30" y="31" width="150" height="34" rx="17" fill="#242249"/><text x="49" y="53" fill="#FFF4EC" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="1">02 / MUSIC</text>
-<text x="28" y="155" fill="#242249" font-family="Arial Black,Arial,sans-serif" font-size="64" font-weight="900" letter-spacing="-3.3">LIMARAYA</text>
-<text x="32" y="203" fill="#47405E" font-family="Arial,sans-serif" font-size="20" font-weight="600">From Yogyakarta</text>
-<g transform="translate(29 231)">
- <circle cx="9" cy="7" r="7" fill="#FF736E"/><circle cx="34" cy="7" r="7" fill="#FDD866"/><circle cx="59" cy="7" r="7" fill="#71D6C1"/><circle cx="84" cy="7" r="7" fill="#8A83D8"/><circle cx="109" cy="7" r="7" fill="#FA93B6"/>
+<title id="title">Limaraya — music and creative world</title>
+<desc id="desc">A monochrome creative-universe card featuring restrained typography and five-channel audio waveforms.</desc>
+<defs><clipPath id="frame"><rect width="620" height="285" rx="15"/></clipPath><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/></pattern></defs>
+<g clip-path="url(#frame)">
+  <rect width="620" height="285" fill="#191A1D"/>
+  <rect width="620" height="285" fill="url(#grid)"/>
+  <path d="M28 72H592M28 237H592" stroke="#F1F1F1" stroke-opacity=".24"/>
+  <text x="30" y="49" fill="#C2C2C6" font-family="Consolas,Menlo,monospace" font-size="16" font-weight="700" letter-spacing="1.2">02 / CREATIVE</text>
+  <text x="30" y="154" fill="#F5F5F5" font-family="Manrope,Arial,Helvetica,sans-serif" font-size="65" font-weight="800" letter-spacing="-3.5">LIMARAYA</text>
+  <text x="34" y="195" fill="#AFAFB5" font-family="Consolas,Menlo,monospace" font-size="16">MUSIC / STORIES / DIGITAL</text>
+  <text x="31" y="264" fill="#AFAFB5" font-family="Consolas,Menlo,monospace" font-size="15">LIMARAYA.COM</text>
+  <g transform="translate(418 87)" stroke="#E2E2E4" stroke-width="6" stroke-linecap="round">
+    <path d="M0 65V95M20 35V125M40 51V109M60 9V151M80 44V116M100 21V139M120 54V106M140 34V126M160 57V103"/>
+  </g>
+  <g fill="#CDCDD0">
+    <circle cx="483" cy="47" r="5"/><circle cx="500" cy="47" r="5"/><circle cx="517" cy="47" r="5"/><circle cx="534" cy="47" r="5"/><circle cx="551" cy="47" r="5"/>
+  </g>
 </g>
-<g transform="translate(390 12)">
- <circle cx="121" cy="136" r="119" fill="#6756BC"/>
- <circle cx="121" cy="136" r="108" fill="#242249"/>
- <circle cx="121" cy="136" r="91" fill="none" stroke="#555080" stroke-width="2"/>
- <circle cx="121" cy="136" r="75" fill="none" stroke="#555080" stroke-width="2"/>
- <circle cx="121" cy="136" r="59" fill="none" stroke="#555080" stroke-width="2"/>
- <circle cx="121" cy="136" r="43" fill="#FFDD71"/>
- <circle cx="121" cy="136" r="31" fill="#FF7A7D"/>
- <circle cx="121" cy="136" r="5" fill="#242249"/>
- <path d="M121 106v15M99 136h14M129 136h15" stroke="#242249" stroke-width="3" stroke-linecap="round"/>
-</g>
-<path d="M363 82v43m11-61v76m11-52v34M355 102h40" stroke="#F8F2E1" stroke-width="5" stroke-linecap="round"/>
-<path d="M334 41l6 12 14 2-10 10 3 14-13-7-13 7 3-14-10-10 14-2z" fill="#FFEA8B"/>
-</g></svg>
+</svg>
