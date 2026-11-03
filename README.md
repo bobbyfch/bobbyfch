@@ -1,39 +1,62 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Bobby Fajar Christian · web developer and music producer" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Bobby Fajar Christian — web developer and creative technologist" width="100%">
 </p>
 
 <p align="center">
-  👋 I build web apps and make music.
+  <strong>Engineering the web. Designing the details. Making music.</strong>
 </p>
 
 <p align="center">
-  <a href="https://limaraya.com/">🎧 limaraya.com</a> &nbsp; · &nbsp;
-  <a href="https://sela.limaraya.com/">📚 Sela</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/bobbyfajarc/">💼 LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://instagram.com/bobby.fch">📷 Instagram</a>
+  I'm Bobby — a developer and creative maker from Indonesia.<br>
+  I build web applications, thoughtful interfaces, and independent digital projects.
 </p>
 
 <p align="center">
-  <a href="https://sela.limaraya.com/"><img src="./assets/sela-card.svg" alt="Sela Books · reading app and document viewer. Visit Sela." width="49%"></a>
-  <a href="https://limaraya.com/"><img src="./assets/limaraya-card.svg" alt="Limaraya · music from Yogyakarta. Visit Limaraya." width="49%"></a>
+  <a href="https://limaraya.com/">Limaraya</a> &nbsp; / &nbsp;
+  <a href="https://sela.limaraya.com/">Sela</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/bobbyfajarc/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://instagram.com/bobby.fch">Instagram</a>
 </p>
+
+---
+
+### 01 / Selected work
 
 <p align="center">
-  <a href="https://sela.limaraya.com/app/">📖 Open Sela Books</a> &nbsp; · &nbsp;
-  <a href="https://limaraya.com/music/">🎶 Listen to Limaraya</a>
+  <a href="https://sela.limaraya.com/"><img src="./assets/sela-card.svg" alt="Sela — local-first reading platform and document engine" width="49%"></a>
+  <a href="https://limaraya.com/"><img src="./assets/limaraya-card.svg" alt="Limaraya — independent music, stories and creative projects" width="49%"></a>
 </p>
 
-### 📊 Code & activity
+**[Sela](https://sela.limaraya.com/)** — A local-first reading app and embeddable document viewer. Built around privacy, offline access, and a carefully considered reading experience. [Open app](https://sela.limaraya.com/app/).
+
+**[Limaraya](https://limaraya.com/)** — An independent music and storytelling universe, brought to the web through a bilingual, design-led experience. [Explore music](https://limaraya.com/music/).
+
+### 02 / Tech stack
+
+| Area | Tools & technologies |
+| :--- | :--- |
+| **Frontend** | TypeScript, JavaScript, React, Astro, HTML, CSS, Tailwind CSS |
+| **Backend** | PHP, CodeIgniter |
+| **Data** | PostgreSQL, MySQL |
+| **Tooling** | Node.js, Vite, Git, GitHub |
+| **Platform** | Cloudflare Workers, Cloudflare Pages |
+
+### 03 / How I build
+
+```text
+$ principles
+  clarity over clutter
+  performance by default
+  accessible, responsive interfaces
+  systems that are maintainable
+  details that feel intentional
+
+$ intersections
+  engineering / interface design / music / storytelling
+```
+
+I care about the space where solid implementation meets good taste: clean architecture, useful interactions, and digital experiences that have a reason to exist.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=bobbyfch&amp;show_icons=true&amp;hide_border=true&amp;bg_color=202346&amp;title_color=FFD76F&amp;text_color=F7F2EA&amp;icon_color=77DCC4&amp;ring_color=FF8394">
-    <img src="https://github-stats-extended.vercel.app/api?username=bobbyfch&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFF6EA&amp;title_color=34325D&amp;text_color=34325D&amp;icon_color=EC7385&amp;ring_color=6863C6" alt="GitHub activity statistics" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bobbyfch&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=202346&amp;title_color=FFD76F&amp;text_color=F7F2EA">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bobbyfch&amp;layout=compact&amp;langs_count=7&amp;hide_border=true&amp;bg_color=FFF6EA&amp;title_color=34325D&amp;text_color=34325D" alt="Programming languages automatically calculated from public GitHub repositories" width="49%">
-  </picture>
+  <sub>Built with intent. Shipped with care.</sub>
 </p>
-
-<p align="center"><sub>Stats and languages use public repo data. Contribution calendar ↓</sub></p>
